@@ -3,7 +3,7 @@
 A production-grade, concurrency-safe Inventory Reservation System built with **Next.js App Router**, **Prisma ORM**, and **Neon (Hosted PostgreSQL)**. 
 
 ## 🌐 Live Demo & Deployment
-*   **Live Deployment URL:** (Paste your Vercel deployment URL here)
+*   **Live Deployment URL:** (https://inventory-reservation-system-idd3.vercel.app/)
 *   **GitHub Repository:** [Ramaanirudh/inventory-reservation-system](https://github.com/Ramaanirudh/inventory-reservation-system)
 
 ---
