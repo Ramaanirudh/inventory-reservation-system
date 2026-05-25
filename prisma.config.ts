@@ -9,6 +9,7 @@ export default defineConfig({
   },
   datasource: {
     url: process.env["DATABASE_URL"]!,
+    // @ts-ignore - Prisma 7 CLI supports directUrl, but it is not fully typed in all config environments yet
     directUrl: process.env["DATABASE_URL_UNPOOLED"],
   },
 });
